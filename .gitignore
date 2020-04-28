@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/dotnetcoremvc-test-app/.vs/dotnetcoremvc-test-app/v16
+/dotnetcoremvc-test-app/dotnetcoremvc-test-app/bin/Debug/netcoreapp3.1
+/dotnetcoremvc-test-app/dotnetcoremvc-test-app/obj
